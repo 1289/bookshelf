@@ -5,3 +5,6 @@
 
 ## Design
 1. [Project Kennedy](http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution)
+
+## Accessibility
+1. [aria-hidden](http://john.foliot.ca/aria-hidden/)
