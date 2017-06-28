@@ -7,3 +7,7 @@
 4. [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 
 5. [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+
+6. [why-is-the-internet-so-slow](https://blog.apnic.net/2017/06/19/why-is-the-internet-so-slow/)
+
+7. [I decided to disable AMP on my site](https://news.ycombinator.com/item?id=14635013)
